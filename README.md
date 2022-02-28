@@ -8,7 +8,7 @@
 - Sklearn
 
 ## Datasets
-The Test dataset for TPC-DS-10GB is placed in **/data/** directory. The data is generated according to the techniques discussed in the paper and stored as a tuple <vector representation, cost reduction ratio>.
+The Test dataset is placed in **/data/** directory. The data is generated according to the techniques discussed in the paper and stored as a tuple <vector representation, cost reduction ratio>.
 
 ## Run
 The Pytorch implementation of LIB is shown in the notebook above.
